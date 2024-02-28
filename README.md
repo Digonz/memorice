@@ -10,7 +10,7 @@ The Memory game is the classic game of memorizing where the pairs of cards are, 
 
 - Requires `node >= 16.0`
 
-To run this application, download the GitHub zip file or clone the repository. Then run with `npm start` Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000/) to view it in your browser.
+To run this app, download the zip file from GitHub or clone the repository. Then run the command `npm Install` to install the node dependencies and with `npm start` Run the application in development mode. Open [http://localhost:3000](http://localhost:3000/) to view it in your browser.
 
 ## Learn More
 
