@@ -10,7 +10,7 @@ import Error from './views/Error';
 
 function App() {
   return (
-    <Suspense fallback={<div>Cargando..</div>}>
+    <Suspense fallback={<div>Loading..</div>}>
       <div className="App">
         <BrowserRouter>
         <Switch>
